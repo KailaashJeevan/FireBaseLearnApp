@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireBaseLearnApp</string>
+    <string name="title_activity_control">control</string>
+    <string name="warning">"Please Reset the app in your setting to see the login page again,"</string>
+</resources>

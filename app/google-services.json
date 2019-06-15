@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372914956032",
+    "firebase_url": "https://fir-learnapp-452e9.firebaseio.com",
+    "project_id": "fir-learnapp-452e9",
+    "storage_bucket": "fir-learnapp-452e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372914956032:android:fc996455eae762ca",
+        "android_client_info": {
+          "package_name": "com.example.firebaselearnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372914956032-n4186qvasje6g36883clnhplgufjc0mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselearnapp",
+            "certificate_hash": "aa1611e26a3299e534417ba25f0ca06158556fcc"
+          }
+        },
+        {
+          "client_id": "372914956032-mq7mg1lupf6hiv3hg113sn199eghcmoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk2gw76a1Nn7SuqGqHRpS7R6uo8Jq62uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372914956032-mq7mg1lupf6hiv3hg113sn199eghcmoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
